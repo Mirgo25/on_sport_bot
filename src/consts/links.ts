@@ -1,1 +1,1 @@
-export const BOT_LINK = 'https://t.me/podarunok_drugu_bot';
+export const CS2_CHANNEL_LINK = 'https://t.me/+bfgqjpUnq100OWQy';
