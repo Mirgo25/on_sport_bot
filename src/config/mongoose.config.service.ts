@@ -18,6 +18,7 @@ export class MongooseConfigService implements MongooseOptionsFactory {
       this.configService.getOrThrow('MONGO_HOST') +
       '/' +
       this.configService.getOrThrow('MONGO_DB');
+    console.log({ uri });
     return {
       uri,
     };
